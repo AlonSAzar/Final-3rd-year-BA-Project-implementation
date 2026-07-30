@@ -1,4 +1,4 @@
-# Amit Dynamics: Cellular Automata Complexity & Robustness
+# Cellular Automata Complexity & Robustness
 
 This project explores the relationship between structural complexity and evolutionary robustness in 1D Cellular Automata (CA). It provides a framework for simulating various CA engines, measuring phenotype complexity, and running evolutionary experiments.
 
