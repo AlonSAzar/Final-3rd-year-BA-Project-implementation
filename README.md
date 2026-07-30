@@ -52,8 +52,3 @@ This project follows professional OOP principles:
 *   **Strategy Pattern**: Used in [strategies.py](Core/strategies.py) to decouple mutation logic from experiment execution.
 *   **Template Method**: [BaseExperiment](Experiments/experiments.py) defines a rigid `run -> analyze -> plot` sequence that all subclasses follow.
 *   **Abstract Base Classes**: Used across Engines, Metrics, and Experiments to ensure consistent interfaces.
-
-## 📝 Ongoing Research (TODOs)
-*   Refining the abstraction layers for 1D vs 2D CA.
-*   Integrating UMAP for better morphospace visualization.
-*   Optimizing RLE metrics for varied lattice sizes.
